@@ -1,0 +1,50 @@
+{
+  "C&C": {
+    "color": "#696969",
+    "acierto": 0.574
+  },
+  "Invamer": {
+    "color": "#8A2BE2",
+    "acierto": 1.0
+  },
+  "Yanhaas": {
+    "color": "#FFD700",
+    "acierto": 0.701
+  },
+  "Guarumo": {
+    "color": "#FFFF00",
+    "acierto": 0.806
+  },
+  "Guarumo & EcoAnalítica": {
+    "color": "#FFFF00",
+    "acierto": 0.806
+  },
+  "CNC": {
+    "color": "#008000",
+    "acierto": 0.676
+  },
+  "CELAG": {
+    "color": "#DAA520",
+    "acierto": 0.53
+  },
+  "Datexco": {
+    "color": "#ADD8E6",
+    "acierto": 0.624
+  },
+  "Massive Caller": {
+    "color": "#DC143C",
+    "acierto": 0.676
+  },
+  "Atlas Intel": {
+    "color": "#00FFFF",
+    "acierto": 0.676
+  },
+  "JPG": {
+    "color": "#0040FF",
+    "acierto": 0.676
+  },
+  "T&SE": {
+    "color": "#FE9A2E",
+    "acierto": 0.676
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "fecha eleccion": "5/29/22",
+
+  "papeleta": {
+    "Gustavo Petro": "#A50EF0",
+    "Federico Gutiérrez": "#4951FC",
+    "Rodolfo Hernández": "#F4F439",
+    "Sergio Fajardo": "#79E058",
+    "Enrique Gómez": "#0DD3FE",
+    "John Milton Rodríguez": "#A0522D",
+    "Blanco": "#000000"
+  },
+
+  "base con encuestas": "../encuestas/Colombia 2022 - BDD encuestas",
+
+  "grafico_encuestas_png": "presidente/encuestas_por_candidato",
+
+  "promedios json file": "presidente/evolucion_promedios_E1",
+
+  "evolucion decision": "presidente/evolucion_decision_E1",
+
+  "parametrizacion decision": "presidente/parametrizacion_decision_E1",
+
+  "encuestas homologadas": "presidente/encuestas_homologadas_E1",
+
+  "probabilidades output fname": "presidente/probabilidades_E1",
+
+  "histograma fname": "presidente/histogramas_E1",
+
+  "intervalos fname": "presidente/intervalos_E1",
+
+  "aciertos xlsx": "presidente/acierto_encuestas",
+
+  "encuestas RECM": "presidente/RECM_encuestas_vs_dias",
+
+  "limite votacion RECM": 0.03,
+
+  "participacion historica 1era": [0.4505, 0.493, 0.3909, 0.5422],
+
+  "participacion historica 2da": [0.4435, 0.4777, 0.54],
+
+  "resultados eleccion": {
+    "Gustavo Petro": {
+      "1er apellido": "Petro",
+      "fraccion validos": 0.9
+    },
+    "Federico Gutiérrez": {
+      "1er apellido": "Gutiérrez",
+      "fraccion validos": 0.8
+    },
+    "Rodolfo Hernández": {
+      "1er apellido": "Hernández",
+      "fraccion validos": 0.7
+    },
+    "Sergio Fajardo": {
+      "1er apellido": "Fajardo",
+      "fraccion validos": 0.6
+    },
+    "Enrique Gómez": {
+      "1er apellido": "Gómez",
+      "fraccion validos": 0.5
+    },
+    "John Milton Rodríguez": {
+      "1er apellido": "Rodríguez",
+      "fraccion validos": 0.3
+    },
+    "Blanco": {
+      "1er apellido": "Blanco",
+      "fraccion validos": 0.1
+    }
+  }
+}

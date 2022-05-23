@@ -1,0 +1,32 @@
+%%%%%% Medias, Medianas, Desviaciones Estandar e Intervalos de Confianza %%%%%%
+Gustavo Petro:   43.1   43.1   5.4   [32.7, 53.9] (21.1)
+Federico Gutiérrez:   24.9   24.8   3.9   [17.6, 32.8] (15.1)
+Rodolfo Hernández:   22.3   22.1   3.5   [15.8, 29.7] (13.9)
+Sergio Fajardo:   5.7   5.5   1.7   [2.9, 9.5] (6.7)
+Blanco:   2.1   1.3   2.3   [0.0, 8.4] (8.4)
+John Milton Rodríguez:   1.1   1.0   0.6   [0.3, 2.4] (2.1)
+Enrique Gómez:   0.8   0.7   0.6   [0.1, 2.4] (2.4)
+
+%%%%%% Probabilidad de Ganar la Primera Vuelta %%%%%%
+Gustavo Petro: 98.3%
+Federico Gutiérrez: 1.3%
+Rodolfo Hernández: 0.4%
+
+%%%%%% Probabilidad de Ganar Directamente %%%%%%
+Gustavo Petro: 10.4%
+Federico Gutiérrez: 0.0%
+Rodolfo Hernández: 0.0%
+
+%%%%%% Habra segunda vuelta? %%%%%%
+Si: 89.6%
+
+%%%%%% Quien pasa a segunda vuelta? %%%%%%
+Federico Gutiérrez vs. Gustavo Petro: 1.2%
+Federico Gutiérrez vs. Rodolfo Hernández: 0.1%
+Gustavo Petro vs. Blanco: 0.0%
+Gustavo Petro vs. Federico Gutiérrez: 60.6%
+Gustavo Petro vs. Rodolfo Hernández: 27.2%
+Rodolfo Hernández vs. Federico Gutiérrez: 0.1%
+Rodolfo Hernández vs. Gustavo Petro: 0.3%
+
+Elapsed time: 17.1 seconds.
